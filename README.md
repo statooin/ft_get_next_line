@@ -21,7 +21,7 @@ This repository contains an implementation of a function that reads a line from 
 
 Maintaining this archive demonstrates my fundamental ability to handle low-level I/O operations and manage persistent state across function calls-core skills for any systems-level engineering.
 
-## The Engineering Foundation (Why this matters for SRE)
+## The Engineering Foundation
 At its core, GNL is a lesson in how to process data streams efficiently. For a Senior SRE, these principles are directly applicable to infrastructure observability:
 
 * **Memory Safety & Leak Prevention:** In a long-running process like a monitoring agent, a tiny memory leak in a read loop can lead to an OOM (Out Of Memory) event. GNL requires perfect management of `malloc` and `free` across multiple calls.
