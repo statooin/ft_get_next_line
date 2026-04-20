@@ -12,7 +12,7 @@
 # **************************************************************************** #
 ```
 
-# Efficient Buffer & I/O Management: get_next_line (2021)
+# Efficient Buffer & I/O Management: get_next_line (2019)
 
 [⚠️STATUS: ARCHIVAL / HISTORICAL REFERENCE]
 
