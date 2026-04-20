@@ -17,9 +17,9 @@
 [⚠️STATUS: ARCHIVAL / HISTORICAL REFERENCE]
 
 ## 📜 Overview
-This repository contains an implementation of a function that reads a line from a file descriptor, returning the text ending with a newline. Developed in 2021 at École 42, this project focuses on efficient buffer management, the use of static variables for state persistence, and meticulous memory handling in C.
+This repository contains an implementation of a function that reads a line from a file descriptor, returning the text ending with a newline. Developed in 2019 at École 42, this project focuses on efficient buffer management, the use of static variables for state persistence, and meticulous memory handling in C.
 
-Maintaining this archive demonstrates my fundamental ability to handle low-level I/O operations and manage persistent state across function calls—core skills for any systems-level engineering.
+Maintaining this archive demonstrates my fundamental ability to handle low-level I/O operations and manage persistent state across function calls-core skills for any systems-level engineering.
 
 ## The Engineering Foundation (Why this matters for SRE)
 At its core, GNL is a lesson in how to process data streams efficiently. For a Senior SRE, these principles are directly applicable to infrastructure observability:
